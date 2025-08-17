@@ -7,7 +7,7 @@
 </p>
 
  
-💻 Programador en formación | 🚀 Amante del código y la creatividad    <img src="images/banergafasV-Photoroom.png" width="50PX" style="border-radius:10px;" />
+💻 Programador en formación | 👨🏾‍💻 Amante del código y la creatividad    <img src="images/banergafasV-Photoroom.png" width="50PX" style="border-radius:10px;" />
 
 
 
@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Tecnologías
+### 🛰️ Tecnologías
 <p gap:10px;>
   <img src="images/david_cabezajpg-Photoroom.png" width="40" style="border-radius:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
