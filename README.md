@@ -50,8 +50,19 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-SilvaDEV&layout=compact&title_color=c4b79a&text_color=c4b79a&bg_color=0d1117&border_color=c4b79a)
 
+---
+<table>
+  <tr>
+    <td>
+      <img src="images/58bfe088e37a21c620f53521bba9c46a-Photoroom.png" width="40px" style="border-radius:10px;" />
+    </td>
+    <td>
+      <img src="images/masalla-Photoroom.png" width="100px" style="border-radius:10px;" />
+    </td>
+  </tr>
+</table>
+
+<img src="images/texto,mas-Photoroom.png" width="400px" style="border-radius:10px;" />
 
 
-<p align="right">
-  <img src="images/58bfe088e37a21c620f53521bba9c46a-Photoroom.png" width="30PX" style="border-radius:10px;" />
-</p>
+
