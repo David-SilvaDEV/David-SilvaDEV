@@ -3,11 +3,11 @@
 
 
 <p align="center">
-  <img src="images/David_Silva_Developer__1_-removebg-preview.png" alt="Banner" style="width:100%; height:250px; object-fit:cover;" />
+  <img src="images/David Silva Developer (2).png" alt="Banner" style="width:100%; height:250px; object-fit:cover;" />
 </p>
 
  
-💻 Programador en formación | 🚀 Amante del código y la creatividad  
+💻 Programador en formación | 🚀 Amante del código y la creatividad    <img src="images/banergafasV-Photoroom.png" width="50PX" style="border-radius:10px;" />
 
 <p align="left">
   <img src="images/david_cabezajpg-Photoroom.png" width="100" style="border-radius:10px;" />
