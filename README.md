@@ -26,7 +26,10 @@
 
 ### <img src="images/8b256230b350d3ae5b9adfacf254fb79-Photoroom.png" width="30PX" style="border-radius:10px;" /> 📊 <span style="color:#D4AF37;">Estadísticas</span>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-SilvaDEV&layout=compact&title_color=D4AF37&text_color=BFA76F&bg_color=0d1117&border_color=D4AF37)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-SilvaDEV&layout=compact&title_color=c4b79a&text_color=c4b79a&bg_color=0d1117&border_color=c4b79a)
+
+
 
 <p align="right">
   <img src="images/58bfe088e37a21c620f53521bba9c46a-Photoroom.png" width="30PX" style="border-radius:10px;" />
