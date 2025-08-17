@@ -12,9 +12,19 @@
 
 ---
 
-### 🛰️ <span style="color:#D4AF37;">Tecnologías</span>
+###  <table>
+  <tr>
+    <td>
+      <img src="images/david_cabezajpg-Photoroom.png" width="40" style="border-radius:10px;" />
+    </td>
+    <td>
+      <img src="images/tegnologias letras-Photoroom.png" width="70px" style="border-radius:10px;" />
+    </td>
+  </tr>
+</table>
+
 <p gap:10px;>
-  <img src="images/david_cabezajpg-Photoroom.png" width="40" style="border-radius:10px;" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -22,9 +32,20 @@
   <img src="images/MUERTEMEDUSA-Photoroom.png" width="80px" style="border-radius:50%;" align="right" />
 </p>
 
----
 
-### <img src="images/8b256230b350d3ae5b9adfacf254fb79-Photoroom.png" width="30PX" style="border-radius:10px;" /> 📊 <span style="color:#D4AF37;">Estadísticas</span>
+---
+   
+### <table>
+  <tr>
+    <td>
+      <img src="images/8b256230b350d3ae5b9adfacf254fb79-Photoroom.png" width="30px" style="border-radius:10px;" />
+    </td>
+    <td>
+      <img src="images/tegnologias letras-Photoroom.png" width="70px" style="border-radius:10px;" />
+    </td>
+  </tr>
+</table>
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-SilvaDEV&layout=compact&title_color=c4b79a&text_color=c4b79a&bg_color=0d1117&border_color=c4b79a)
