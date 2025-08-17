@@ -17,7 +17,7 @@
 
 ### 🚀 Tecnologías
 <p gap:10px;>
-  <img src="images/david_cabezajpg-Photoroom.png" width="50" style="border-radius:10px;" />
+  <img src="images/david_cabezajpg-Photoroom.png" width="40" style="border-radius:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -27,6 +27,9 @@
 
 ---
 
-### 📊 Estadísticas
+### <img src="images/8b256230b350d3ae5b9adfacf254fb79-Photoroom.png" width="30PX" style="border-radius:10px;" /> 📊 Estadísticas 
+
 ![Dael's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaelSantos&show_icons=true&theme=radical)
+
+<img src="images/58bfe088e37a21c620f53521bba9c46a-Photoroom.png" width="30PX" style="border-radius:10px;" align="right" />
 
