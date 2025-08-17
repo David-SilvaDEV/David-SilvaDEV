@@ -28,8 +28,10 @@
 ---
 
 ### <img src="images/8b256230b350d3ae5b9adfacf254fb79-Photoroom.png" width="30PX" style="border-radius:10px;" /> 📊 Estadísticas 
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-SilvaDEV&layout=compact&title_color=C9A43E&text_color=C9A43E&bg_color=0d1117&border_color=C9A43E)
 
-![Dael's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaelSantos&show_icons=true&theme=radical)
+
 
 <img src="images/58bfe088e37a21c620f53521bba9c46a-Photoroom.png" width="30PX" style="border-radius:10px;" align="right" />
 
