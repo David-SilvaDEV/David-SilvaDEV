@@ -9,6 +9,12 @@
  
 💻 Programador en formación | 🚀 Amante del código y la creatividad  
 
+<p align="left">
+  <img src="images/david_cabezajpg-Photoroom.png" width="100" style="border-radius:50%;" />
+</p>
+
+
+
 ---
 
 ### 🚀 Tecnologías
