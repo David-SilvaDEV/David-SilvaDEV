@@ -2,9 +2,10 @@
 
 
 
-<p align="left">
-  <img src="https://i.pinimg.com/736x/8b/25/62/8b256230b350d3ae5b9adfacf254fb79.jpg" width="70">
+<p align="center">
+  <img src="images/David_Silva_Developer__1_-removebg-preview.png" alt="Banner" style="width:100%; height:250px; object-fit:cover;" />
 </p>
+
  
 💻 Programador en formación | 🚀 Amante del código y la creatividad  
 
