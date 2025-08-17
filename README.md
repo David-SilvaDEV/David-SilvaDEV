@@ -10,7 +10,7 @@
 💻 Programador en formación | 🚀 Amante del código y la creatividad  
 
 <p align="left">
-  <img src="images/david_cabezajpg-Photoroom.png" width="100" style="border-radius:50%;" />
+  <img src="images/david_cabezajpg-Photoroom.png" width="100" style="border-radius:10px;" />
 </p>
 
 
@@ -23,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="images/MUERTEMEDUSA-Photoroom.png" width="80px" style="border-radius:50%;" align="right" />
 </p>
 
 ---
