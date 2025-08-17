@@ -1,21 +1,15 @@
-
-
-
-
 <p align="center">
   <img src="images/David Silva Developer (4).png" alt="Banner" style="width:100%; height:200px; object-fit:cover;" />
 </p>
 
- 
-💻 Programador en formación | 👨🏾‍💻 Amante del código y la creatividad    <img src="images/banergafasV-Photoroom.png" width="50PX" style="border-radius:10px;" />
-
-
-
-
+<h2 align="center" style="color:#D4AF37;">💻 Programador en formación | 👨🏾‍💻 Amante del código y la creatividad</h2>   
+<p align="center">
+  <img src="images/banergafasV-Photoroom.png" width="50PX" style="border-radius:10px;" />
+</p>
 
 ---
 
-### 🛰️ Tecnologías
+### 🛰️ <span style="color:#D4AF37;">Tecnologías</span>
 <p gap:10px;>
   <img src="images/david_cabezajpg-Photoroom.png" width="40" style="border-radius:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -27,11 +21,10 @@
 
 ---
 
-### <img src="images/8b256230b350d3ae5b9adfacf254fb79-Photoroom.png" width="30PX" style="border-radius:10px;" /> 📊 Estadísticas 
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-SilvaDEV&layout=compact&title_color=C9A43E&text_color=C9A43E&bg_color=0d1117&border_color=C9A43E)
+### <img src="images/8b256230b350d3ae5b9adfacf254fb79-Photoroom.png" width="30PX" style="border-radius:10px;" /> 📊 <span style="color:#D4AF37;">Estadísticas</span>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-SilvaDEV&layout=compact&title_color=D4AF37&text_color=BFA76F&bg_color=0d1117&border_color=D4AF37)
 
-
-<img src="images/58bfe088e37a21c620f53521bba9c46a-Photoroom.png" width="30PX" style="border-radius:10px;" align="right" />
-
+<p align="right">
+  <img src="images/58bfe088e37a21c620f53521bba9c46a-Photoroom.png" width="30PX" style="border-radius:10px;" />
+</p>
