@@ -2,7 +2,8 @@
   <img src="images/David Silva Developer (4).png" alt="Banner" style="width:100%; height:200px; object-fit:cover;" />
 </p>
 
-<h2 align="center" style="color:#D4AF37;">💻 Programador en formación | 👨🏾‍💻 Amante del código y la creatividad</h2>   
+  <img src="images/letras sin fondo-Photoroom.png" style="width:100%; " />
+  
 <p align="center">
   <img src="images/banergafasV-Photoroom.png" width="50PX" style="border-radius:10px;" />
 </p>
