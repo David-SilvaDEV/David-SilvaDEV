@@ -3,22 +3,21 @@
 
 
 <p align="center">
-  <img src="images/David Silva Developer (2).png" alt="Banner" style="width:100%; height:250px; object-fit:cover;" />
+  <img src="images/David Silva Developer (2).png" alt="Banner" style="width:100%; height:200px; object-fit:cover;" />
 </p>
 
  
 💻 Programador en formación | 🚀 Amante del código y la creatividad    <img src="images/banergafasV-Photoroom.png" width="50PX" style="border-radius:10px;" />
 
-<p align="left">
-  <img src="images/david_cabezajpg-Photoroom.png" width="100" style="border-radius:10px;" />
-</p>
+
 
 
 
 ---
 
 ### 🚀 Tecnologías
-<p align="left">
+<p>
+  <img src="images/david_cabezajpg-Photoroom.png" width="50" style="border-radius:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
