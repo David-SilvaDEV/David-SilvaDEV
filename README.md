@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="images/David Silva Developer (2).png" alt="Banner" style="width:100%; height:200px; object-fit:cover;" />
+  <img src="images/David Silva Developer (4).png" alt="Banner" style="width:100%; height:200px; object-fit:cover;" />
 </p>
 
  
