@@ -65,7 +65,12 @@
 <img src="images/texto,mas-Photoroom.png" width="400px" style="border-radius:10px;" />
 
 ---
-<img src="images/Diseño sin título (1).png" width="200px" style="border-radius:10px;" />
+<p align="center">
+  <img src="images/Diseño sin título (1).png" width="150px" style="border-radius:10px;" />
+</p>
+
+*Email:* orpi4488@gmail.com
+
 
 
 
