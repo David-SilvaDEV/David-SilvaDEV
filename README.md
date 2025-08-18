@@ -42,7 +42,7 @@
       <img src="images/8b256230b350d3ae5b9adfacf254fb79-Photoroom.png" width="30px" style="border-radius:10px;" />
     </td>
     <td>
-      <img src="images/tegnologias letras-Photoroom.png" width="70px" style="border-radius:10px;" />
+      <img src="images/estadisticas-Photoroom.png" width="70px" style="border-radius:10px;" />
     </td>
   </tr>
 </table>
